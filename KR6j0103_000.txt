@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂經觀自在王如來修行法
+#+DATE: 2015-08-30 20:25:57.507575
+#+PROPERTY: JUAN 0
